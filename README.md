@@ -13,3 +13,5 @@ Our team followed 4 steps:
  2. Synthesis and interpretation of key insights, building possible recommendations
  3. Selection of strategic options
  4. Construction of the expansion plan
+
+**Result**: Reached second position, out of 15 teams
